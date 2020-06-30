@@ -1,0 +1,1 @@
+/Users/kunal/confluent-kafka/bin/zookeeper-server-start /Users/kunal/confluent-kafka/etc/kafka/zookeeper.properties

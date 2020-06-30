@@ -1,0 +1,1 @@
+/Users/kunal/confluent-kafka/bin/kafka-server-start /Users/kunal/confluent-kafka/etc/kafka/server-2.properties
